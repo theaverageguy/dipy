@@ -1,7 +1,7 @@
 """ Tests for overall io sub-package
 """
 
-from ... import io
+from dipy.io import *
 
 from nose.tools import assert_false
 
